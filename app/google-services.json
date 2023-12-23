@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210287721922",
+    "project_id": "whatschat-fe022",
+    "storage_bucket": "whatschat-fe022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210287721922:android:27e58a88f17038ed44aa5b",
+        "android_client_info": {
+          "package_name": "com.example.whatschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARdCvXGP_-g9U6ObOumkeOkiKR7MEIJq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

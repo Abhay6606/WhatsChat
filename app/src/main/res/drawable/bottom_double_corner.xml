@@ -1,0 +1,34 @@
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:shape="rectangle" >-->
+
+<!--    &lt;!&ndash; shape property for the view based on the value particular view would be drawn &ndash;&gt;-->
+<!--    <corners-->
+<!--        android:topRightRadius="150dp"-->
+<!--        android:topLeftRadius="150dp"-->
+<!--        />-->
+<!--    <solid-->
+<!--        android:color="@color/white" />-->
+<!--    &lt;!&ndash;  stroke for defining a border for view &ndash;&gt;-->
+
+<!--    <size-->
+<!--        android:height="40dp"-->
+<!--        android:width="40dp" />-->
+<!--    &lt;!&ndash; size element is used to define a design here height & width are same means square with some radius &ndash;&gt;-->
+<!--</shape>-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- shape property for the view based on the value particular view would be drawn -->
+    <corners
+        android:topRightRadius="70dp"
+        android:topLeftRadius="70dp"
+        />
+    <solid
+        android:color="@color/white" />
+    <!--  stroke for defining a border for view -->
+
+    <size
+        android:height="40dp"
+        android:width="40dp" />
+    <!-- size element is used to define a design here height & width are same means square with some radius -->
+</shape>
